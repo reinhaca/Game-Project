@@ -1,0 +1,9 @@
+STAGE 1
+	30 days of being in a random town spawn. First character chosen is random, name + job. Then each day you can pick someone connected to that person to take over. 
+	Each person will have a job or hobby, etc. Each day the web of who you can take over increases based on who you take over the day before. You acquire resources each 
+	day based on what they get. Store stats on the alien from each of the people he takes over. Gets skills on each job "he/she" does based on taking over the person. 
+	In Stage 2 you get more resources based on your stat levels. 
+STAGE 2 - Part 1 (one month)
+	Start to build your own town with resources acquired from stage 1 and continue to get resources based on who you have taken over. Get to spend resources and 
+	natural events happen like citizens moving in, things happening in the town which might take away resources or gain some. you are the Mayor, the first person
+        that was randomly taken over.  

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <p> hello this is a test</p>
+   <button onclick="myfunc()">Try it</button>
+        <p id="demo"></p>
+
+<script>
+    function myfunc () {
+       var text = '{"employees":[' +
+'{"firstName":"John","lastName":"Doe" },' +
+'{"firstName":"Anna","lastName":"Smith" },' +
+'{"firstName":"Peter","lastName":"Jones" }]}';
+ var job = 0;
+    var time = Math.floor(Math.random() * 2);
+    if (time == 0) {
+            text[0] = "Farmer";
+    } else if (time == 1) {
+        job = "construction worker";
+    } else {
+        job = "Doctor";
+    }  
+obj = JSON.parse(text);
+document.getElementById("demo").innerHTML =
+obj.employees[].firstName + " " + obj.employees[].lastName + time; 
+        
+        
+    }
+ </script> 
+</body>    
+</html>    
